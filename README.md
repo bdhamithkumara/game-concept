@@ -124,3 +124,6 @@ This project aims to create an interactive web application (with potential mobil
 …and neither does this pronunciation journey! 🇱🇰🛣️🖐️🗣️
 
 Built with lots of back-and-forth help from Grok 🚀
+
+
+expensive tracker app for friends 
